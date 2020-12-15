@@ -1,0 +1,2 @@
+# Credit-Card-Customers
+A business manager of a consumer credit card portfolio is facing the problem of customer attrition. They want to analyze the data to find out the reason behind this and leverage the same to predict customers who are likely to drop off. Your task is to Build a predictive model to preduct as much customer that are likely to churn as possible. That translates technical to a high recall score. Dataset can be gotten from kaggle using this link  https://www.kaggle.com/sakshigoyal7/credit-card-customers
